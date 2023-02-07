@@ -14,4 +14,4 @@ let found;
 // YOUR CODE BELOW
 
 // Do not change the code below
-module.exports = { found };
+module.exports = { found, name };
