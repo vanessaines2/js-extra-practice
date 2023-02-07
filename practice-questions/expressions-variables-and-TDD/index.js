@@ -1,5 +1,4 @@
 // DO NOT CHANGE THIS FILE!!
-
 module.exports = {
   ...require("./favorite-activity"),
   ...require("./variable-assignment"),
