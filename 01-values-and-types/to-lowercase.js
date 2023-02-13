@@ -6,3 +6,4 @@ EX: "FULLSTACK ACADEMY".toLowerCase() OUTPUT: "fullstack academy";
 */
 
 // YOUR CODE BELOW
+console.log("some string".toLowerCase());
